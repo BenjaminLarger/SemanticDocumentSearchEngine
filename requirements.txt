@@ -9,3 +9,4 @@ uvicorn==0.29.0
 python-dotenv==1.0.1
 pydantic==2.6.4
 numpy==1.26.4
+sentence_transformers==
